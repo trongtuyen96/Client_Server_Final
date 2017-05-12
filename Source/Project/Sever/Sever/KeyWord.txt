@@ -1,0 +1,13 @@
+4
+tamgiacvuong
+Tam-giac-co-1-goc-90
+15
+haicach
+So-cach-cau-hinh-Routing-Table
+20
+transmissiondelay
+Tre-do-toc-do-truyen
+16
+tuantu
+Phuong-thuc-DNS-Server-phan-giai
+15

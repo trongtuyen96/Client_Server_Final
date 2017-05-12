@@ -1,0 +1,1 @@
+Cai dat Layout cua console o Window Size voi Width 100, Height 40 de hien the chuan xac nhat
